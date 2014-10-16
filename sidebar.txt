@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[byw:home|Door43 (byw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-byw|d43-byw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-byw/archive/master.zip|d43-byw.zip]]
+
+**Recent Changes**
+{{changes>ns = byw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/byw|Ethnologue data]]
+
